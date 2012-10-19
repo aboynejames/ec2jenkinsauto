@@ -1,1 +1,3 @@
-<?php `git pull origin master` ; 
+<?php
+shell_exec('git pull origin master');
+?>
